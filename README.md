@@ -1,4 +1,4 @@
-# Flask App template with 
+# Flask API template 
 1) JWT Authentication configured
 2) Authorisation Configured
 3) Redis Configured
@@ -19,7 +19,7 @@ python app.py
 ````
 
 
-### Flask API (Multi process)
+### Flask API (Multiprocess)
 ````
 uwsgi wsgi.ini
 ````
